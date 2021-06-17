@@ -1,3 +1,12 @@
+# Books :book:
+## Стек: React + Redux
+![QyPoKDtL](https://user-images.githubusercontent.com/79835478/122411402-66fb0f80-cf8d-11eb-883c-e96b5f646791.jpg)
+![I83STvVS](https://user-images.githubusercontent.com/79835478/122411415-69f60000-cf8d-11eb-8aca-2b6c8905e900.jpg)
+### Возможности:
+- :heavy_check_mark: Поиск книг по названию
+- :heavy_check_mark: Индикация загрузки во время получения данных
+- :heavy_check_mark: При нажатии на книгу открывается модальное окно с подробной информацией
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
