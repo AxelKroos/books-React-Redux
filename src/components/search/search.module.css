@@ -1,0 +1,35 @@
+@keyframes show {
+
+    from {opacity: 0;} to {opacity: 1;}
+}
+
+.search {
+    position: relative;
+    top: 150px;
+}
+
+.input {
+    width: 35vh;
+    height: 3vh;
+    position: relative;
+    right: -15px;
+    border: 3px solid #b6b6c4;
+    background: rgba(164, 164, 184, 0.27);
+    outline: none;
+    transition: .2s;
+}
+
+.input:hover {
+    background: rgba(255, 255, 255, 0.68);
+    transition: .2s;
+}
+
+.button {
+    position: relative;
+    left:-25px;
+    width: 4vh;
+    height: 3vh;
+    background: rgba(255, 255, 255, 0);
+    border: none;
+    cursor: pointer;
+}
